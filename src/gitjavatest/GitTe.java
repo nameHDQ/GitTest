@@ -13,5 +13,6 @@ public class GitTe {
         System.out.println("master conflict");
         System.out.println("hot fix conflict test");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
